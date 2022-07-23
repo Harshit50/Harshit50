@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit50
-- 👀 I’m interested in ...coding , programming 
-- 🌱 I’m currently learning ... DSA
+- 👀 I’m interested in ... programming 
+- 🌱 I’m currently learning ... DSA and FrontEnd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
