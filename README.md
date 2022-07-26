@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshit50
+- 👋 Hi, I’m @Harshit
 - 👀 I’m interested in ... programming 
 - 🌱 I’m currently learning ... DSA and FrontEnd
 - 💞️ I’m looking to collaborate on ... FrontEnd Development
