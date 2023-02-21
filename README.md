@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshit Raheja
-- 👀 I’m interested in ... programming 
+- 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ... DSA and FrontEnd
 - 💞️ I’m looking to collaborate on ... FrontEnd Development
 - 📫 How to reach me ... harshitraheja94@gmail.com
