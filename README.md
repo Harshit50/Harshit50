@@ -76,6 +76,18 @@
 
 ---
 
+### 🏛️ Backoffice Database System — Trade Settlement Lifecycle
+
+**Python | MySQL | MongoDB | Tkinter**
+
+- Implemented a hybrid relational + NoSQL back-office system for T+1 trade settlement
+- Built a Python-based GUI for full lifecycle management
+- Modeled complex financial workflows with ER design, normalization, and document storage
+
+🔗 [Repository](https://github.com/Harshit50/Backoffice-Database-System)
+
+---
+
 ### 🔬 Keyword Co-Occurrence Network Analysis
 
 **Python | NLP | NetworkX | Pandas**
@@ -112,17 +124,6 @@
 
 ---
 
-### 🏛️ Backoffice Database System — Trade Settlement Lifecycle
-
-**Python | MySQL | MongoDB | Tkinter**
-
-- Implemented a hybrid relational + NoSQL back-office system for T+1 trade settlement
-- Built a Python-based GUI for full lifecycle management
-- Modeled complex financial workflows with ER design, normalization, and document storage
-
-🔗 [Repository](https://github.com/Harshit50/Backoffice-Database-System)
-
----
 
 ## What I'm Focused On
 
