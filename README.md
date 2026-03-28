@@ -137,7 +137,7 @@
 
 ## Connect With Me
 
-📧 [harshitraheja02@gmail.com](mailto:harshitraheja02@gmail.com)  
+📧 [harshitraheja2025@gmail.com](mailto:harshitraheja2025@gmail.com)  
 💼 LinkedIn: [linkedin.com/in/harshit-raheja-41842b22b](https://www.linkedin.com/in/harshit-raheja-41842b22b/)  
 🐙 GitHub: [github.com/Harshit50](https://github.com/Harshit50)
 
